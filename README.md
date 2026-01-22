@@ -12,3 +12,9 @@ Metallicas **aggresive** music is something different.
 1. Zach Top
 2. Morgan Wallen
 3. Luke Combs
+
+### My Favorite Books
+
+* The Very Hungry Caterpillar
+* The Cat in the Hat
+* If You Give a Mouse a Cookie
