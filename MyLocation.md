@@ -12,7 +12,6 @@ I like to visit the Lake of the Ozarks because everytime I go I always have a go
 This Table shows where I want to visit at some point in my life.  
 These are 4 completely diffrent places, but I would like to see them all 
 
-
 | Place | Reason | Distance | Budget |
 | :--- | :--- | :--- | :--- |
 |Rocky Mountains|I want to see the mountains|600 Miles|500$|
