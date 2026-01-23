@@ -23,6 +23,7 @@ Metallicas **aggresive** music is something different.
  **[MyLocation](MyLocation.md)**
 
  ---
+
  # My Favorite Quotes
 
  > When It rains it pours  
@@ -38,3 +39,16 @@ Metallicas **aggresive** music is something different.
  > Time for a good time
  >
  *Alan Jackson*
+
+ ---
+ # Code Fencing
+
+### Select distinct
+The select distinct command in SQL is used to return only distinct values
+
+```
+SELECT DISTINCT column1, column2, ...
+FROM table_name;
+```
+
+Link to SQL Distinct <https://pieces.app/collections/sql>
