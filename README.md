@@ -27,7 +27,7 @@ Metallicas **aggresive** music is something different.
 
  > When It rains it pours  
  >
- * Luke Combs
+ *Luke Combs*
 
  > I've Been working all week
  >
@@ -36,4 +36,4 @@ Metallicas **aggresive** music is something different.
  > I want to have fun 
  >
  > Time for a good time
- * Alan Jackson
+ *Alan Jackson*
